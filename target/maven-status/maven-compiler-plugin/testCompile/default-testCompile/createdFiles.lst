@@ -1,0 +1,5 @@
+com\interview\serviceTest\NikeCodeInterviewServiceTest.class
+com\interview\repositoryTest\JPARepositoryTest.class
+com\interview\controllerTest\NikeCodeInterviewControllerTest.class
+com\interview\serviceTest\SimpleShufflerStrategyTest.class
+com\interview\serviceTest\ComplexShufflerStrategyTest.class
